@@ -26,7 +26,7 @@ otherwise players will login anonymously without storing their highscores.
 
 ***
 
-### Controls
+## Controls
 - WASD: Movement
 - Spacebar: (Double)Jump
 - Shift: Sprint
