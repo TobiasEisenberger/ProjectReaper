@@ -9,7 +9,7 @@ public static class DbConnection
     {
         var builder = new MySqlConnectionStringBuilder
         {
-            Server = "141.75.150.82",
+            Server = "127.0.0.1",
             UserID = "AdminUser",
             Password = "Passwort5678",
             Database = "mmo_project_reaper",
